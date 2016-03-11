@@ -1,0 +1,15 @@
+{
+    "name": "jasonqsy/sjtu-mass-mail",
+    "description": "A mass-mail tool for SJTU email account written in PHP.",
+    "require": {
+        "vlucas/phpdotenv": "^2.1",
+        "phpmailer/phpmailer": "~5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason Qian",
+            "email": "syqian@sjtu.edu.cn"
+        }
+    ]
+}
